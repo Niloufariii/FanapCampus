@@ -1,0 +1,4 @@
+[ERROR] 2024-01-06 10:58:09.143 [main] MyLog4j - country =آنگولا is null value
+[INFO ] 2024-01-06 10:58:09.149 [main] MyLog4j - Country Code is  USA and  Country Name is آمریکا
+[INFO ] 2024-01-06 10:58:09.149 [main] MyLog4j - Country Code is  IRN and  Country Name is ایران
+[ERROR] 2024-01-06 10:58:09.149 [main] MyLog4j - country FRA= is null value

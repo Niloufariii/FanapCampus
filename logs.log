@@ -1,0 +1,2 @@
+[INFO ] 2024-01-03 13:37:54.527 [main] MyLog4j - Info Message Logged !!!
+[ERROR] 2024-01-03 13:37:54.530 [main] MyLog4j - Error Message Logged !!!
